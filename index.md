@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Hi, I’m Társio 👋
 
-You can use the [editor on GitHub](https://github.com/tarsioonofrio/tarsioonofrio.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**RTL / Digital Design Engineer (SystemVerilog)** — open to **DV/Verification** roles (SVA + testbenches) as an entry path, with **primary focus on RTL**.  
+M.Sc. (PUCRS) researching hardware acceleration and PPA trade-offs (performance / power / area).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!--### Featured RTL / DV Projects (Portfolio)
+- **sv-async-fifo-cdc** — CDC-safe async FIFO (Gray pointers + 2FF sync) + cocotb tests + SVA
+  👉 https://github.com/tarsioonofrio/sv-async-fifo-cdc
+- **sv-streaming-mac** — ready/valid streaming MAC pipeline + backpressure correctness + assertions
+  👉 https://github.com/tarsioonofrio/sv-streaming-mac
+- **sv-regfile-apb** — APB3 register file + error handling + cocotb verification
+  👉 https://github.com/tarsioonofrio/sv-regfile-apb
+- **rtl-portfolio** — landing page with quick demos and “how to run” for each IP
+  👉 https://github.com/tarsioonofrio/rtl-portfolio-->
 
-### Markdown
+### Research / Capstone
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **acc_dse_env** — Undergraduate capstone (TCC): CNN accelerator DSE environment (training → RTL generation → simulation/synthesis artifacts)  
+  👉 https://github.com/tarsioonofrio/acc_dse_env
 
-```markdown
-Syntax highlighted code block
+### What I work with
 
-# Header 1
-## Header 2
-### Header 3
+SystemVerilog • Synthesizable RTL (FSMs, pipelines, datapaths) • ready/valid streaming • FIFOs • CDC basics • SVA  
+cocotb • ModelSim/Questa • Git • Linux • Python (test automation)
 
-- Bulleted
-- List
+### Open to roles
 
-1. Numbered
-2. List
+- RTL / Digital Design Engineer (ASIC/FPGA)
+- DV / Verification Engineer (SVA, testbenches) close to design/integration
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tarsioonofrio/tarsioonofrio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+📫 **Contact:** LinkedIn: https://www.linkedin.com/in/tarsio-onofrio/
