@@ -16,7 +16,7 @@ M.Sc. (PUCRS) researching hardware acceleration and PPA trade-offs (performance 
 ### Research / Capstone
 
 - **acc_dse_env** — Undergraduate capstone (TCC): CNN accelerator DSE environment (training → RTL generation → simulation/synthesis artifacts)  
-  👉 https://github.com/tarsioonofrio/acc_dse_env
+  👉 [https://github.com/tarsioonofrio/acc_dse_env](https://github.com/tarsioonofrio/acc_dse_env)
 
 ### What I work with
 
@@ -28,4 +28,4 @@ cocotb • ModelSim/Questa • Git • Linux • Python (test automation)
 - RTL / Digital Design Engineer (ASIC/FPGA)
 - DV / Verification Engineer (SVA, testbenches) close to design/integration
 
-📫 **Contact:** LinkedIn: https://www.linkedin.com/in/tarsio-onofrio/
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/tarsio-onofrio/)
