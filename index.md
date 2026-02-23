@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Hi, I’m Társio 👋
 
 **RTL / Digital Design Engineer (SystemVerilog)** — open to **DV/Verification** roles (SVA + testbenches) as an entry path, with **primary focus on RTL**.  

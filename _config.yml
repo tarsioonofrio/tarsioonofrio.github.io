@@ -1,5 +1,5 @@
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Tarsio Onofrio CV]
-description: [CV and portfolio of Tarsio Onofrio, focused on RTL/Digital Design, verification, and hardware acceleration research.]
+  - jekyll-remote-theme
+title: "Tarsio Onofrio CV"
+description: "CV and portfolio of Tarsio Onofrio, focused on RTL/Digital Design, verification, and hardware acceleration research."
