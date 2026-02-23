@@ -19,7 +19,7 @@ M.Sc. (PUCRS) researching hardware acceleration and PPA trade-offs (performance 
 
 - [**sv-async-fifo-cdc**](https://github.com/tarsioonofrio/sv-async-fifo-cdc) — CDC-safe async FIFO (Gray pointers + 2FF sync) + SVA
 
-  **Proof in 30 seconds (local):**
+  **Run in 30 seconds (local):**
 
   ```bash
   # from the repository root (or sim/ folder, depending on your Makefile)
