@@ -43,7 +43,6 @@ M.Sc. (PUCRS) researching hardware acceleration and PPA trade-offs (performance 
 ## Research (M.Sc.)
 
 - [**fast-convolution-rtl**](https://github.com/tarsioonofrio/fast-convolution-rtl) — Python package used to implement fast-convolution algorithms.
-  👉 https://github.com/tarsioonofrio/fast-convolution-rtl
 - [**FastConv_SystemVerilog**](https://github.com/tarsioonofrio/FastConv_SystemVerilog) — SystemVerilog implementation and evaluation flow for fast-convolution hardware experiments.
 - [**fast-conv-RS5**](https://github.com/tarsioonofrio/fast-conv-RS5) — Software implementation of fast convolution for the RS5 RISC-V platform, including optimized/non-optimized execution flows, consolidated reporting, and stored result files.
   <!--👉 -->
