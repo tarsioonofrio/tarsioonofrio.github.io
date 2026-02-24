@@ -48,7 +48,7 @@ M.Sc. (PUCRS) researching hardware acceleration and PPA trade-offs (performance 
 
 ### Undergraduate capstone (TCC)
 
-- [**acc_dse_env**](https://github.com/tarsioonofrio/acc_dse_env) — Undergraduate capstone (TCC): CNN accelerator DSE environment (training → RTL generation → simulation/synthesis artifacts)
+- [**acc_dse_env**](https://github.com/tarsioonofrio/acc_dse_env) — CNN accelerator DSE environment (training → RTL generation → simulation/synthesis artifacts)
 
 ### What I work with
 
