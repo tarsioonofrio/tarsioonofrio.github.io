@@ -32,17 +32,21 @@
     background-color: #2d333b;
   }
 
-  .markdown-body pre {
-    background-color: #161b22;
+  .markdown-body pre,
+  .markdown-body pre.highlight,
+  .markdown-body .highlight,
+  .markdown-body .highlighter-rouge .highlight,
+  .markdown-body .highlighter-rouge pre,
+  .markdown-body div.highlight pre {
+    background-color: #161b22 !important;
+    color: #e6edf3 !important;
     border: 1px solid #30363d;
   }
 
-  .markdown-body code {
-    background-color: #161b22;
-    color: #e6edf3;
-  }
-
-  .markdown-body pre code {
-    background-color: transparent;
+  .markdown-body code,
+  .markdown-body pre code,
+  .markdown-body .highlight code {
+    background-color: transparent !important;
+    color: #e6edf3 !important;
   }
 </style>
