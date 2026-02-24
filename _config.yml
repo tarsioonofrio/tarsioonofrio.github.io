@@ -1,5 +1,5 @@
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-remote-theme
-title: "Tarsio Onofrio CV"
+title: "My CV & Portfolio"
 description: "CV and portfolio of Tarsio Onofrio, focused on RTL/Digital Design, verification, and hardware acceleration research."
