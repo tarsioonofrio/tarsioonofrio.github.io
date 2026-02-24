@@ -4,7 +4,8 @@ layout: default
 
 ## Hi, I’m Társio 👋
 
-**RTL / Digital Design Engineer (SystemVerilog)** — open to **DV/Verification** roles (SVA + testbenches) as an entry path, with **primary focus on RTL**.  
+**RTL / Digital Design Engineer (SystemVerilog)** — open to **DV/Verification** roles (SVA + testbenches) as an entry path, with **primary focus on RTL**.
+
 M.Sc. (PUCRS) researching hardware acceleration and PPA trade-offs (performance / power / area).
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/tarsio-onofrio/) • [CV (PDF)](https://docs.google.com/document/d/1F7zzdW6YABb9DMwhphXfwozydVCwDZN2ZzKqmzfFqqw/export?format=pdf)
